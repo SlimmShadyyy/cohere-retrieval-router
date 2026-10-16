@@ -1,0 +1,452 @@
+[
+  {
+    "query_id": "q_000",
+    "category": "numeric_id",
+    "query": "ERR-4050-B Firmware v2.1.0 biochemical characterization Ran-RanBP1-RanGAP system.",
+    "gold_doc_id": "doc_000"
+  },
+  {
+    "query_id": "q_001",
+    "category": "numeric_id",
+    "query": "ERR-4057-B and v3.2.1: carbon dioxide heat-shock response in Chironomus thummi.",
+    "gold_doc_id": "doc_001"
+  },
+  {
+    "query_id": "q_002",
+    "category": "numeric_id",
+    "query": "ERR-4064-B and v4.3.2: 5-HT2CR agonists for binge eating treatment?",
+    "gold_doc_id": "doc_002"
+  },
+  {
+    "query_id": "q_003",
+    "category": "numeric_id",
+    "query": "ERR-4071-B and v5.4.3: in vivo guanine-quadruplex structure evidence in Stylonychia lemnae?",
+    "gold_doc_id": "doc_003"
+  },
+  {
+    "query_id": "q_004",
+    "category": "numeric_id",
+    "query": "ERR-4078-B and v2.5.4: HIV/TB study in Malawi hospital",
+    "gold_doc_id": "doc_004"
+  },
+  {
+    "query_id": "q_005",
+    "category": "numeric_id",
+    "query": "ERR-4085-B and v3.6.5: Repair outcomes for (CTG)\u2022(CAG) repeats.",
+    "gold_doc_id": "doc_005"
+  },
+  {
+    "query_id": "q_006",
+    "category": "numeric_id",
+    "query": "ERR-4092-B and v4.7.6: ADAMTS7 expression in PAD patients with rs1994016/rs3825807 variants.",
+    "gold_doc_id": "doc_006"
+  },
+  {
+    "query_id": "q_007",
+    "category": "numeric_id",
+    "query": "ERR-4099-B and v5.8.0: molecular pathology advances in brain cancer research.",
+    "gold_doc_id": "doc_007"
+  },
+  {
+    "query_id": "q_008",
+    "category": "numeric_id",
+    "query": "ERR-4106-B and Firmware v2.9.1: Pain catastrophizing study details and findings.",
+    "gold_doc_id": "doc_008"
+  },
+  {
+    "query_id": "q_009",
+    "category": "numeric_id",
+    "query": "ERR-4113-B and v3.1.2: STAT3 upregulation by miR551b-3p in ovarian cancer.",
+    "gold_doc_id": "doc_009"
+  },
+  {
+    "query_id": "q_010",
+    "category": "numeric_id",
+    "query": "ERR-4120-B v4.2.3: Foxo1 role in Treg cell function and homeostasis.",
+    "gold_doc_id": "doc_010"
+  },
+  {
+    "query_id": "q_011",
+    "category": "numeric_id",
+    "query": "ERR-4127-B and v5.3.4: Rodent models in bone regeneration research.",
+    "gold_doc_id": "doc_011"
+  },
+  {
+    "query_id": "q_012",
+    "category": "numeric_id",
+    "query": "ERR-4134-B and v2.4.5: m6A-driven translation of circRNAs in human cells?",
+    "gold_doc_id": "doc_012"
+  },
+  {
+    "query_id": "q_013",
+    "category": "numeric_id",
+    "query": "ERR-4141-B and v3.5.6: TLR and NOD signaling in sepsis research.",
+    "gold_doc_id": "doc_013"
+  },
+  {
+    "query_id": "q_014",
+    "category": "numeric_id",
+    "query": "ERR-4148-B v4.6.0: Glioblastoma genomic alterations and therapeutic targets.",
+    "gold_doc_id": "doc_014"
+  },
+  {
+    "query_id": "q_015",
+    "category": "semantic",
+    "query": "How do certain immune cells help cancer spread and grow in the body?",
+    "gold_doc_id": "doc_030"
+  },
+  {
+    "query_id": "q_016",
+    "category": "semantic",
+    "query": "Does this mangrove plant show germ-fighting effects against some harmful tiny living things?",
+    "gold_doc_id": "doc_031"
+  },
+  {
+    "query_id": "q_017",
+    "category": "semantic",
+    "query": "Does this treatment help fight blood cancers and what are its side effects?",
+    "gold_doc_id": "doc_032"
+  },
+  {
+    "query_id": "q_018",
+    "category": "semantic",
+    "query": "How do non-doctor healthcare workers feel about and handle relationships with drug companies?",
+    "gold_doc_id": "doc_033"
+  },
+  {
+    "query_id": "q_019",
+    "category": "semantic",
+    "query": "How do nerves help keep bones healthy and strong?",
+    "gold_doc_id": "doc_034"
+  },
+  {
+    "query_id": "q_020",
+    "category": "semantic",
+    "query": "How can we quickly get good genetic material from cotton for testing?",
+    "gold_doc_id": "doc_035"
+  },
+  {
+    "query_id": "q_021",
+    "category": "semantic",
+    "query": "How do neighboring cells help shape the connection between newly divided cells?",
+    "gold_doc_id": "doc_036"
+  },
+  {
+    "query_id": "q_022",
+    "category": "semantic",
+    "query": "What happens to blood cell development when a certain enzyme is missing?",
+    "gold_doc_id": "doc_037"
+  },
+  {
+    "query_id": "q_023",
+    "category": "semantic",
+    "query": "What makes certain mouse cells naturally attack and destroy specific cancer cells?",
+    "gold_doc_id": "doc_038"
+  },
+  {
+    "query_id": "q_024",
+    "category": "semantic",
+    "query": "How do new lab methods help us understand and treat blood diseases better?",
+    "gold_doc_id": "doc_039"
+  },
+  {
+    "query_id": "q_025",
+    "category": "semantic",
+    "query": "How do certain body signals guide basic cell choices and growth?",
+    "gold_doc_id": "doc_040"
+  },
+  {
+    "query_id": "q_026",
+    "category": "semantic",
+    "query": "What does this online tool do to help understand the shape of small proteins?",
+    "gold_doc_id": "doc_041"
+  },
+  {
+    "query_id": "q_027",
+    "category": "semantic",
+    "query": "Does giving different medicines for a bad cough affect how quickly people get better?",
+    "gold_doc_id": "doc_042"
+  },
+  {
+    "query_id": "q_028",
+    "category": "semantic",
+    "query": "How do certain proteins work together to change DNA packaging and trigger genetic reshuffling during cell division?",
+    "gold_doc_id": "doc_043"
+  },
+  {
+    "query_id": "q_029",
+    "category": "semantic",
+    "query": "How can we quickly spot new places where a certain bug-borne illness might spread?",
+    "gold_doc_id": "doc_044"
+  },
+  {
+    "query_id": "q_030",
+    "category": "negation",
+    "query": "What is the mechanism of L-threonine production in Escherichia coli through systems metabolic engineering, involving the removal of feedback inhibitions, transcriptional attenuation, and degradation pathways, as well as the deletion of specific genes, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_060"
+  },
+  {
+    "query_id": "q_031",
+    "category": "negation",
+    "query": "What is the mechanism of structural analysis of multiprotein complexes using cross-linking, mass spectrometry, and database searching WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_061"
+  },
+  {
+    "query_id": "q_032",
+    "category": "negation",
+    "query": "What is the mechanism of the twin-arginine translocation (Tat) protein export pathway in Escherichia coli, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_062"
+  },
+  {
+    "query_id": "q_033",
+    "category": "negation",
+    "query": "What is the mechanism of exocrine pancreas development, including the formation of acinar, ductal, and centroacinar cells, involving transcription factors, multipotent progenitor cells, and signaling pathways, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_063"
+  },
+  {
+    "query_id": "q_034",
+    "category": "negation",
+    "query": "What is the mechanism of action of JNJ-42041935 in treating inflammation-induced anemia WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_064"
+  },
+  {
+    "query_id": "q_035",
+    "category": "negation",
+    "query": "What is the mechanism described in the passage that operates WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_065"
+  },
+  {
+    "query_id": "q_036",
+    "category": "negation",
+    "query": "What is the mechanism described in the passage that operates in the risk assessment protocol for Alzheimer's disease, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_066"
+  },
+  {
+    "query_id": "q_037",
+    "category": "negation",
+    "query": "What is the mechanism of long-term, nightly benzodiazepine treatment for injurious parasomnias and other disorders of disrupted nocturnal sleep WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_067"
+  },
+  {
+    "query_id": "q_038",
+    "category": "negation",
+    "query": "What is the mechanism of endomitosis in megakaryocytes, specifically the chromosomal segregation patterns in low and high ploidy cells, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_068"
+  },
+  {
+    "query_id": "q_039",
+    "category": "negation",
+    "query": "What is the mechanism by which sugar-sweetened beverages promote weight gain in children and adults WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_069"
+  },
+  {
+    "query_id": "q_040",
+    "category": "negation",
+    "query": "What is the mechanism for optimal growth in Mycobacterium tuberculosis, as described in the passage, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_070"
+  },
+  {
+    "query_id": "q_041",
+    "category": "negation",
+    "query": "What is the two-tiered clutch mechanism in neuronal growth cone migration involving actin and N-cadherin/catenin complexes WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_071"
+  },
+  {
+    "query_id": "q_042",
+    "category": "negation",
+    "query": "What is the mechanism by which H3.3K27M mutation, p53 loss, and PDGFRA activation synergize to induce neoplastic transformation in neural progenitor cells, WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_072"
+  },
+  {
+    "query_id": "q_043",
+    "category": "negation",
+    "query": "What is the mechanism by which unsaturated non-esterified fatty acids inhibit receptor-mediated calcium influx in T cells WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_073"
+  },
+  {
+    "query_id": "q_044",
+    "category": "negation",
+    "query": "What is the mechanism by which the objective-subjective crowding relationship operates WITHOUT beta-adrenergic receptor activation (not beta-adrenergic)?",
+    "gold_doc_id": "doc_074"
+  },
+  {
+    "query_id": "q_045",
+    "category": "complex",
+    "query": "How do the anatomical and hemodynamic changes in the kidneys during pregnancy interact with preexisting renal diseases to influence fetal development and maternal health outcomes?",
+    "gold_doc_id": "doc_090"
+  },
+  {
+    "query_id": "q_046",
+    "category": "complex",
+    "query": "How do advancements in gene transfer vectors and proof-of-concept studies in animal models collectively contribute to the safety and efficacy of gene supplementation therapy for inherited retinal dystrophies?",
+    "gold_doc_id": "doc_091"
+  },
+  {
+    "query_id": "q_047",
+    "category": "complex",
+    "query": "How do the factors of diabetes mellitus and insulin use interact to influence the efficacy and safety outcomes of prasugrel versus clopidogrel in reducing cardiovascular events and bleeding risks?",
+    "gold_doc_id": "doc_092"
+  },
+  {
+    "query_id": "q_048",
+    "category": "complex",
+    "query": "How does the interaction between BCL9's enhancement of beta-catenin-mediated transcription and its promotion of epithelial-mesenchymal transition contribute to increased tumor proliferation, metastasis, and angiogenesis in cancers with aberrant Wnt signaling?",
+    "gold_doc_id": "doc_093"
+  },
+  {
+    "query_id": "q_049",
+    "category": "complex",
+    "query": "How do the oxidant-independent mechanism and the separation of nuclear membranes interact to facilitate the rapid, vesicle-mediated release of NETs in response to Staphylococcus aureus, distinct from lytic NET formation?",
+    "gold_doc_id": "doc_094"
+  },
+  {
+    "query_id": "q_050",
+    "category": "complex",
+    "query": "How does the deletion of Dicer1 in mouse osteoprogenitors, but not mature osteoblasts, interact with reduced Sbds expression to induce myelodysplasia and secondary leukemia?",
+    "gold_doc_id": "doc_095"
+  },
+  {
+    "query_id": "q_051",
+    "category": "complex",
+    "query": "How does the dosage of sitagliptin (5, 10, 20 mg/kg) interact with the duration of administration (12 weeks) to influence the reduction of amyloid-beta deposits and memory impairment in Alzheimer's-prone mice?",
+    "gold_doc_id": "doc_096"
+  },
+  {
+    "query_id": "q_052",
+    "category": "complex",
+    "query": "How do the microstructural abnormalities in the corpus callosum, as measured by fractional anisotropy (FA) values, interact with disease course and headache frequency to influence depressive/anxious symptoms in adult patients with complicated migraine?",
+    "gold_doc_id": "doc_097"
+  },
+  {
+    "query_id": "q_053",
+    "category": "complex",
+    "query": "How do MYC dysregulation and Ncoa2/Src-2 deletion synergistically accelerate liver tumorigenesis in the Sleeping Beauty mutagenesis screen, and what mechanisms underlie their interaction?",
+    "gold_doc_id": "doc_098"
+  },
+  {
+    "query_id": "q_054",
+    "category": "complex",
+    "query": "How do adrenergic agents released by sympathetic neurons and beta(1)-adrenergic receptors on ghrelin-secreting stomach cells interact to stimulate ghrelin secretion during fasting?",
+    "gold_doc_id": "doc_099"
+  },
+  {
+    "query_id": "q_055",
+    "category": "complex",
+    "query": "How do the concentration (58.6 \u03bcg/ml) and duration (24 hours) of Aloe emodin treatment interact to produce the observed gene expression changes in U87 glioblastoma cells, particularly in inducing apoptosis and tissue remodeling?",
+    "gold_doc_id": "doc_100"
+  },
+  {
+    "query_id": "q_056",
+    "category": "complex",
+    "query": "How does the interaction between MBD1-mediated repression of miR-184 and miR-184's regulation of Numbl expression contribute to the balance of neural stem cell proliferation and differentiation?",
+    "gold_doc_id": "doc_101"
+  },
+  {
+    "query_id": "q_057",
+    "category": "complex",
+    "query": "How do the recommended vitamin D intakes and the observed serum 25(OH)D concentrations interact to influence the achievement of optimal health outcomes, particularly in younger versus older adults?",
+    "gold_doc_id": "doc_102"
+  },
+  {
+    "query_id": "q_058",
+    "category": "complex",
+    "query": "How do the number of anthelmintic doses and the duration of follow-up interact to influence the observed weight changes in children treated for intestinal helminth infections?",
+    "gold_doc_id": "doc_103"
+  },
+  {
+    "query_id": "q_059",
+    "category": "complex",
+    "query": "How do the unified concept of diversity and the notion of community versus sample diversity interact to influence the estimation of effective species numbers and the definition of evenness?",
+    "gold_doc_id": "doc_104"
+  },
+  {
+    "query_id": "q_060",
+    "category": "long_doc",
+    "query": "How does the gut microbiota regulate SAA3 expression in mouse colonic epithelium and adipose tissue?",
+    "gold_doc_id": "doc_120"
+  },
+  {
+    "query_id": "q_061",
+    "category": "long_doc",
+    "query": "Does satellite cell depletion in sedentary mice affect sarcopenia or muscle fibrosis during aging?",
+    "gold_doc_id": "doc_121"
+  },
+  {
+    "query_id": "q_062",
+    "category": "long_doc",
+    "query": "How does sex-specific dosage compensation differ between ZZ/ZW and XX/XY systems in birds?",
+    "gold_doc_id": "doc_122"
+  },
+  {
+    "query_id": "q_063",
+    "category": "long_doc",
+    "query": "How does Pol \u03b5 holoenzyme's DNA polymerase activity contribute to chromosomal DNA replication in Xenopus egg extracts?",
+    "gold_doc_id": "doc_123"
+  },
+  {
+    "query_id": "q_064",
+    "category": "long_doc",
+    "query": "What measures have significantly reduced HCV transmission via blood transfusions since the 1980s?",
+    "gold_doc_id": "doc_124"
+  },
+  {
+    "query_id": "q_065",
+    "category": "long_doc",
+    "query": "How does growth hormone therapy impact neurocognitive outcomes in SGA children beyond height improvement?",
+    "gold_doc_id": "doc_125"
+  },
+  {
+    "query_id": "q_066",
+    "category": "long_doc",
+    "query": "How do T cell\u2013T cell synapses contribute to the differentiation of protective CD8+ T cell memory?",
+    "gold_doc_id": "doc_126"
+  },
+  {
+    "query_id": "q_067",
+    "category": "long_doc",
+    "query": "How does Oct4 interact with chromatin-modifying complexes to regulate stem cell pluripotency?",
+    "gold_doc_id": "doc_127"
+  },
+  {
+    "query_id": "q_068",
+    "category": "long_doc",
+    "query": "How do ribosomopathies link ribosome biogenesis to tumorigenesis and growth control?",
+    "gold_doc_id": "doc_128"
+  },
+  {
+    "query_id": "q_069",
+    "category": "long_doc",
+    "query": "How does PrimPol facilitate replication fork progression on UV-damaged DNA templates?",
+    "gold_doc_id": "doc_129"
+  },
+  {
+    "query_id": "q_070",
+    "category": "long_doc",
+    "query": "What are the key clinical features and genetic causes of Hutchinson-Gilford progeria syndrome?",
+    "gold_doc_id": "doc_130"
+  },
+  {
+    "query_id": "q_071",
+    "category": "long_doc",
+    "query": "How does a six-lncRNA signature improve prognosis prediction in colorectal cancer patients?",
+    "gold_doc_id": "doc_131"
+  },
+  {
+    "query_id": "q_072",
+    "category": "long_doc",
+    "query": "How does maternal protein restriction during pregnancy alter fetal brain lipid composition and maternal liver metabolism?",
+    "gold_doc_id": "doc_132"
+  },
+  {
+    "query_id": "q_073",
+    "category": "long_doc",
+    "query": "How do embryonic lineage differences affect TGF-beta responses in chick aortic smooth muscle cells?",
+    "gold_doc_id": "doc_133"
+  },
+  {
+    "query_id": "q_074",
+    "category": "long_doc",
+    "query": "How do enhancers evolve across 20 mammalian species, and what drives their rapid changes?",
+    "gold_doc_id": "doc_134"
+  }
+]
